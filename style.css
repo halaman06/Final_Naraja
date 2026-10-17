@@ -1,0 +1,17 @@
+body {
+    background-color: #f5f5f5;
+}
+
+.form-box {
+    max-width: 450px;
+    margin: 30px auto;
+    background: white;
+    padding: 25px;
+    border-radius: 6px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+}
+
+.low-stock {
+    color: red;
+    font-weight: bold;
+}
