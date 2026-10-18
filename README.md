@@ -3,7 +3,7 @@
 Final project for Web Application Development. A simple web app for tracking items in a small store.
 
 - Live website: https://naraja-kim.infinityfree.io/
-- GitHub: https://github.com/username/inventory-manager (change this)
+- GitHub: https://github.com/halaman06/Final_Naraja.git
 
 ## Admin login (for grading)
 
