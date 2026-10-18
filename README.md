@@ -5,36 +5,9 @@ Final project for Web Application Development. A simple web app for tracking ite
 - Live website: https://naraja-kim.infinityfree.io/
 - GitHub: https://github.com/halaman06/Final_Naraja.git
 
-## Admin login (for grading)
-
-- Email: admin@example.com
-- Password: password
-
-You can also register a new account to test the normal user role.
-
-## Features
-
-- Register and login (passwords hashed with `password_hash()`)
-- Two roles: **admin** and **user**
-  - user: can only see and manage their own items
-  - admin: can manage all items and delete users
-- Add, view, edit and delete items (CRUD)
-- Live search using JavaScript `fetch()`
-- Client-side validation (JavaScript) and server-side validation (PHP)
-- Prepared statements (SQL injection) and `htmlspecialchars()` (XSS)
-- Responsive layout using Bootstrap 5
-
 ## Technologies
 
 HTML5, CSS3, Bootstrap 5, JavaScript, PHP, MySQL
-
-## How to run
-
-1. Create a database in phpMyAdmin
-2. Import `database/schema.sql`
-3. Open `config.php` and put your database host, username, password and database name
-4. Upload all the files to your hosting (`htdocs` folder in InfinityFree) or put them in `htdocs` of XAMPP
-5. Open the site in the browser
 
 ## Files
 
