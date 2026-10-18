@@ -30,7 +30,7 @@ HTML5, CSS3, Bootstrap 5, JavaScript, PHP, MySQL
 
 ## How to run
 
-1. Create a database (example: `inventory_db`) in phpMyAdmin
+1. Create a database in phpMyAdmin
 2. Import `database/schema.sql`
 3. Open `config.php` and put your database host, username, password and database name
 4. Upload all the files to your hosting (`htdocs` folder in InfinityFree) or put them in `htdocs` of XAMPP
