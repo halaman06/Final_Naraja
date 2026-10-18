@@ -1,8 +1,8 @@
 <?php
-$host = "localhost";
-$user = "root";
-$pass = "";
-$dbname = "inventory_db";
+$host = "sql204.infinityfree.com";
+$user = "if0_43202048";
+$pass = "Naraja0606";
+$dbname = "if0_43202048_inventory_db";
 
 $conn = mysqli_connect($host, $user, $pass, $dbname);
 if (!$conn) {
