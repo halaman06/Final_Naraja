@@ -19,4 +19,4 @@ CREATE TABLE items (
 );
 
 INSERT INTO `users` (`id`, `name`, `email`, `password`, `role`, `created_at`) 
-VALUES (NULL, 'lander', 'landernaraja@gmail.com', '$2y$10$jMP8.A2hgv4ZQOKkeyX67O.qqowk8Z7J/ZFbsTatNvpTr1RZHONni', 'admin', '2026-10-11 00:40:18')
+VALUES (NULL, 'lander', 'landernaraja@gmail.com', 'lander', 'admin', '2026-10-11 00:40:18')
